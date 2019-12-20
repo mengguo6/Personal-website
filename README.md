@@ -1,2 +1,2 @@
 # MG
-[-](https://hackmd.io/@mengguo/HJkfBaYRH)
+[link](https://hackmd.io/@mengguo/HJkfBaYRH)
